@@ -1,0 +1,104 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "wikifetch@0.0.2",
+        "scope": null,
+        "name": "wikifetch",
+        "rawSpec": "0.0.2",
+        "spec": "0.0.2",
+        "type": "version"
+      },
+      "/home/soal/dev/HM/wikipedia-parser"
+    ]
+  ],
+  "_from": "wikifetch@0.0.2",
+  "_id": "wikifetch@0.0.2",
+  "_inCache": true,
+  "_location": "/wikifetch",
+  "_nodeVersion": "0.10.26",
+  "_npmUser": {
+    "name": "bcoe",
+    "email": "bencoe@gmail.com"
+  },
+  "_npmVersion": "2.1.15",
+  "_phantomChildren": {
+    "CSSselect": "0.4.1",
+    "entities": "1.1.1",
+    "lodash": "2.4.2",
+    "readable-stream": "1.1.14"
+  },
+  "_requested": {
+    "raw": "wikifetch@0.0.2",
+    "scope": null,
+    "name": "wikifetch",
+    "rawSpec": "0.0.2",
+    "spec": "0.0.2",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/wikifetch/-/wikifetch-0.0.2.tgz",
+  "_shasum": "f61a879eea074738ef3846711c822d7c3d770061",
+  "_shrinkwrap": null,
+  "_spec": "wikifetch@0.0.2",
+  "_where": "/home/soal/dev/HM/wikipedia-parser",
+  "author": {
+    "name": "Ben Coe",
+    "email": "bencoe@gmail.com"
+  },
+  "bin": {
+    "wikifetch": "./bin/wikifetch.js"
+  },
+  "bugs": {
+    "url": "https://github.com/bcoe/wikifetch/issues"
+  },
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "micro-test": "1.0.0",
+    "optimist": "0.3.4",
+    "request": ">=2.9.203",
+    "sexy-args": ">=1.1.5"
+  },
+  "description": "Uses cheerio to return a structured JSON representation of a Wikipedia article.",
+  "devDependencies": {
+    "micro-test": "^1.0.0"
+  },
+  "directories": {
+    "lib": "./lib",
+    "bin": "./bin"
+  },
+  "dist": {
+    "shasum": "f61a879eea074738ef3846711c822d7c3d770061",
+    "tarball": "https://registry.npmjs.org/wikifetch/-/wikifetch-0.0.2.tgz"
+  },
+  "engines": [
+    "node"
+  ],
+  "gitHead": "41bfcb9cd07556b8bddeb1fa9cef85ef77c39b03",
+  "homepage": "https://github.com/bcoe/wikifetch",
+  "keywords": [
+    "crawler",
+    "twitter",
+    "public-timeline"
+  ],
+  "main": "./lib/index.js",
+  "maintainers": [
+    {
+      "name": "bcoe",
+      "email": "bencoe@gmail.com"
+    }
+  ],
+  "name": "wikifetch",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bcoe/wikifetch.git"
+  },
+  "scripts": {
+    "test": "micro-test"
+  },
+  "version": "0.0.2"
+}

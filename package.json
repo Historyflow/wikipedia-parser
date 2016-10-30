@@ -1,0 +1,22 @@
+{
+  "name": "wikipedia-parser",
+  "version": "1.0.0",
+  "description": "Simple wikipedia parser for grbbing test data",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soal/wikipedia-parser.git"
+  },
+  "author": "",
+  "homepage": "https://github.com/soal/wikipedia-parser#readme",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "downcache": ">= 0.0.2",
+    "micro-test": "1.0.0",
+    "npmlog": "~0.0.6",
+    "optimist": "0.3.4",
+    "request": ">=2.9.203",
+    "sexy-args": ">=1.1.5",
+    "wtf_wikipedia": "^0.6.0"
+  }
+}
