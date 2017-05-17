@@ -15,7 +15,7 @@ var getData = module.exports.data = function(page, opts, callback) {
 		prop: "text|wikitext",
 		// contentmodel: "json",
 		// format: "json",
-		lang: opts.lang || 'ru'
+		lang: opts.lang || 'en'
 	}
 
 	// if (opts.content) {

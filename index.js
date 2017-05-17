@@ -4,7 +4,7 @@ const $ = require("cheerio");
 const wtfWikipedia = require("wtf_wikipedia");
 
 const workWithHtml = module.exports.workWithHtml = function(file) {
-  var article = fs.readFileSync(`./data/${ file }`);
+  var article = fs.readFileSync(`${__dirname}/data/${ file }`);
 
   var text = JSON.parse(article).text["*"];
   var cleanedText = text.replace(/\\/g, "").replace(/\n/g, "");
@@ -60,7 +60,7 @@ const getArticle = module.exports.getArticle = function(name, category) {
     }
     dates = dates.map(date => {
       let parsedDate = parseInt(date, 10);
-      if (date.includes("до н. э.")) {
+      if (date.includes("BC")) {
         parsedDate = -parsedDate;
       }
       return "" + parsedDate;
@@ -73,18 +73,19 @@ const getArticle = module.exports.getArticle = function(name, category) {
       page.end_date = "";
     }
 
-    fs.writeFile(`./data/${ category.length ? category + "/" : "" }${cleanedName}.json`, JSON.stringify(page), err => { if (err) { console.log(err); } });
+    fs.writeFile(`${__dirname}/data/${ category.length ? category + "/" : "" }${cleanedName}.json`, JSON.stringify(page), err => { if (err) { console.log(err); } });
   });
 };
 
 const getCategory = module.exports.getCategory = function(category) {
-  fetcher.categories.tree(category, { lang: "ru" }, result => {
-    fs.mkdirSync(`./data/${ result.name.replace(/ /g, "_") }`);
+  fetcher.categories.tree(category, { lang: "en" }, result => {
+    fs.mkdirSync(`${__dirname}/data/${ result.name.replace(/ /g, "_") }`);
+    let pagesCount = 0;
     result.pages.forEach(page => {
       // console.log("#################################");
-      // console.log(page);
       // console.log("---------------------------------");
       getArticle(page, category);
+      console.log(pagesCount++);
     });
     result.subcategories.forEach(subcat => {
       getCategory(subcat.name.replace(/ /g, "_"));
@@ -93,64 +94,162 @@ const getCategory = module.exports.getCategory = function(category) {
 };
 
 const setClassBulk = module.exports.setClassBulk = function(dir, classObj) {
-  fs.readdir(`./data/${dir}`, (err, files) => {
+  fs.readdir(`${__dirname}/data/${dir}`, (err, files) => {
     if (err) console.log(err);
     console.log(files);
     files.forEach(file => {
-      fs.readFile(`./data/${dir}/${file}`, (err, content) => {
+      fs.readFile(`${__dirname}/data/${dir}/${file}`, (err, content) => {
         if (err) console.log(err);
         let parsed = JSON.parse(content);
         parsed.class = classObj;
-        fs.writeFile(`./data/${dir}/${file}`, JSON.stringify(parsed), err => { if (err) console.log(err); });
+        fs.writeFile(`${__dirname}/data/${dir}/${file}`, JSON.stringify(parsed), err => { if (err) console.log(err); });
       });
     });
   });
 };
 
-const getGroup = module.exports.getGroup = function(group) {
-  // var elements = ["Римская_республика", "Карфаген", "Этолийский_союз", "Пергамское_царство", "Спарта", "Нумидия", "Древняя_Македония", "Сиракузы", "Ахейский_союз", "Капуя"];
-
-  var elements = [
-    "Публий_Корнелий_Сципион_(консул_218_года_до_н._э.)",
-    "Гней_Корнелий_Сципион_Кальв",
-    "Тиберий_Семпроний_Лонг_(консул_218_года_до_н._э.)",
-    "Гай_Фламиний",
-    "Гней_Сервилий_Гемин",
-    "Марк_Атилий_Регул_(консул_227_года_до_н._э.)",
-    "Квинт_Фабий_Максим_Кунктатор",
-    "Марк_Минуций_Руф_(консул_221_года_до_н._э.)",
-    "Луций_Эмилий_Павел_(консул_219_года_до_н._э.)",
-    "Гай_Теренций_Варрон",
-    "Марк_Клавдий_Марцелл_(консул_222_года_до_н._э.)",
-    "Марк_Ливий_Салинатор",
-    "Гай_Клавдий_Нерон",
-    "Публий_Корнелий_Сципион_Африканский",
-    "Сифакс",
-    "Ганнибал",
-    "Гасдрубал_Баркид",
-    "Магон_Баркид",
-    "Гасдрубал_Гискон",
-    "Магарбал",
-    "Ганнон_Старший",
-    "Ганнон,_сын_Бомилькара",
-    "Филипп_V_Македонский",
-    "Филопемен"
-  ];
-
-  if (!fs.statSync(`./data/${group}`).isDirectory()) {
-    fs.mkdirSync(`./data/${group}`);
+const getProcess = module.exports.getProcess = function(proc) {
+  try {
+    if (!fs.statSync(`${__dirname}/data/${proc}`).isDirectory()) {
+       fs.mkdirSync(`${__dirname}/data/${proc}`);
+    }
+  } catch (Error) {
+    fs.mkdirSync(`${__dirname}/data/${proc}`);
   }
 
-  elements.forEach(state => {
-    getArticle(state, group);
+  let cats = [
+    {
+      name: "states",
+      elements: [
+        "Roman_Republic",
+        "Ancient_Carthage",
+        "Aetolian_League",
+        "Pergamon",
+        "Syracuse,_Sicily",
+        "Macedonia_(ancient_kingdom)",
+        "Ptolemaic_Kingdom",
+        "Seleucid_Empire",
+        "Epirus_(ancient_state)"
+      ]
+    },
+    {
+      name: "personas",
+      elements: [
+        "Publius_Cornelius_Scipio",
+        "Tiberius_Sempronius_Longus_(consul_218_BCE)",
+        "Scipio_Africanus",
+        "Gaius_Flaminius",
+        "Quintus_Fabius_Maximus_Verrucosus",
+        "Marcus_Claudius_Marcellus",
+        "Lucius_Aemilius_Paullus_(General)",
+        "Gaius_Terentius_Varro",
+        "Marcus_Livius_Salinator",
+        "Gaius_Claudius_Nero",
+        "Gnaeus_Cornelius_Scipio_Calvus",
+        "Masinissa",
+        "Marcus_Minucius_Rufus_(consul_221_BC)",
+        "Gnaeus_Servilius_Geminus",
+        "Hannibal",
+        "Hasdrubal_(Barcid)",
+        "Mago_(Barcid)",
+        "Hasdrubal_Gisco",
+        "Syphax",
+        "Hanno_the_Elder",
+        "Hasdrubal_the_Bald",
+        "Maharbal",
+        "Philip_V_of_Macedon",
+        "Archimedes"
+      ]
+    },
+    {
+      name: "places",
+      elements: [
+        "Carthage",
+        "Rome",
+        "Sagunto",
+        "Benevento",
+        "Cremona",
+        "Cádiz",
+        "Hippo_Regius",
+        "Málaga",
+        "Marseille",
+        "Messina",
+        "Naples",
+        "Cartagena,_Spain",
+        "Ostia_Antica",
+        "Piacenza",
+        "Reggio_Calabria",
+        "Taranto",
+        "History_of_Taranto",
+        "Utica,_Tunisia"
+      ]
+    },
+    {
+      name: "events",
+      elements: [
+        "Siege_of_Syracuse_(214–212_BC)",
+        "Macedonian–Carthaginian_Treaty",
+        "Battle_of_Lilybaeum",
+        "Battle_of_Rhone_Crossing",
+        "Battle_of_Ticinus",
+        "Battle_of_the_Trebia",
+        "Battle_of_Cissa",
+        "Battle_of_Lake_Trasimene",
+        "Battle_of_Ebro_River",
+        "Battle_of_Ager_Falernus",
+        "Battle_of_Geronium",
+        "Battle_of_Cannae",
+        "Battle_of_Nola_(216_BC)",
+        "Battle_of_Nola_(215_BC)",
+        "Battle_of_Dertosa",
+        "Battle_of_Nola_(214_BC)",
+        "Battle_of_Beneventum_(214_BC)",
+        "Battle_of_Tarentum_(212_BC)",
+        "Battle_of_Capua",
+        "Battle_of_the_Silarus",
+        "Battle_of_Herdonia_(212_BC)",
+        "Battle_of_the_Upper_Baetis",
+        "Battle_of_Capua_(211_BC)",
+        "Battle_of_Herdonia_(210_BC)",
+        "Battle_of_Numistro",
+        "Battle_of_Canusium",
+        "Assault_on_Cartagena",
+        "Battle_of_Baecula",
+        "Battle_of_Grumentum",
+        "Battle_of_the_Metaurus",
+        "Battle_of_Ilipa",
+        "Battle_of_Crotona",
+        "Battle_of_Bagbrades",
+        "Battle_of_Zama"
+      ]
+    }
+  ]
+
+  cats.forEach(cat => {
+    getGroup(proc, cat.name, cat.elements)
+  })
+
+}
+
+const getGroup = module.exports.getGroup = function(proc, group, elements) {
+  try {
+    if (!fs.statSync(`${__dirname}/data/${proc}/${group}`).isDirectory()) {
+      fs.mkdirSync(`${__dirname}/data/${proc}/${group}`);
+    }
+  } catch (Error) {
+    fs.mkdirSync(`${__dirname}/data/${proc}/${group}`);
+  }
+
+  elements.forEach(elem => {
+    getArticle(elem, `${proc}/${group}`);
   });
 };
 
 const getIds = module.exports.getIds = function(group, idsList) {
-  fs.readdir(`./data/${group}`, (err, files) => {
+  fs.readdir(`${__dirname}/data/${group}`, (err, files) => {
     if (err) console.log(err);
     files.forEach(file => {
-      fs.readFile(`./data/${group}/${file}`, (err, content) => {
+      fs.readFile(`${__dirname}/data/${group}/${file}`, (err, content) => {
         if (err) console.log(err);
         let parsed = JSON.parse(content);
         idsList.push(parsed.id);

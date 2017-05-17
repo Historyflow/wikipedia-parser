@@ -1,0 +1,2141 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"end",
+				"end_date\t(Битва_за_Тарент_(209_до_н._э.).json)"
+			],
+			[
+				"start",
+				"start_date\t(Битва_за_Тарент_(209_до_н._э.).json)"
+			],
+			[
+				"кла",
+				"класса"
+			],
+			[
+				"не",
+				"необязательное"
+			],
+			[
+				"fw",
+				"fw-br\tfont-weight: bolder;"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"first",
+				"first-slide\t(index.html)"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"transform",
+				"transform = 'translate3d(x,y,z)'\tStyle CSS"
+			],
+			[
+				"top",
+				"top\tStyle CSS"
+			],
+			[
+				"queryS",
+				"querySelectorAll( selectors: DOMString ): NodeList\tDocument"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"wil",
+				"will-change\t(storymap.css)"
+			],
+			[
+				"firs",
+				"first-slide\t(index.html)"
+			],
+			[
+				"border-b",
+				"border-box"
+			],
+			[
+				"node",
+				"node_modules\t(package.json)"
+			],
+			[
+				"ma",
+				"mapboxgl"
+			],
+			[
+				"stor",
+				"storymap.js\t(index.html)"
+			],
+			[
+				"stop",
+				"stopPropagation\t(storymap.min.js)"
+			],
+			[
+				"error",
+				"error: DOMError\tFileReader"
+			],
+			[
+				"err",
+				"error: any\tErrorEvent"
+			],
+			[
+				"if",
+				"else if()"
+			],
+			[
+				"pa",
+				"parsed"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"getC",
+				"getCatlist"
+			],
+			[
+				"clea",
+				"cleanedText"
+			],
+			[
+				"func",
+				"function without name"
+			],
+			[
+				"get",
+				"getCategory"
+			],
+			[
+				"strin",
+				"stringify( value: any, replacer?: any, space?: any ): string\tJSON"
+			],
+			[
+				"cate",
+				"categories\t(categories.js)"
+			],
+			[
+				"geo",
+				"geojsonExtent"
+			],
+			[
+				"bbox",
+				"bboxify"
+			],
+			[
+				"generateFea",
+				"generateFeatureCollection"
+			],
+			[
+				"pol",
+				"polygon\t(generator.js)"
+			],
+			[
+				"JS",
+				"JSON.stringify( value: any, replacer?: any, space?: any ): string\tJSON"
+			],
+			[
+				"perio",
+				"periods"
+			],
+			[
+				"peri",
+				"periodize"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"r",
+				"round〔function〕"
+			],
+			[
+				"defau",
+				"defaultPiece"
+			],
+			[
+				"new",
+				"newPiece"
+			],
+			[
+				"rand",
+				"randomMin"
+			],
+			[
+				"ran",
+				"randomMin"
+			],
+			[
+				"function",
+				"function without name"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"box-s",
+				"box-sizing: 〔property〕"
+			],
+			[
+				"bottom",
+				"bottom: 〔property〕"
+			],
+			[
+				"elemnt",
+				"elementActions"
+			],
+			[
+				"elem",
+				"elementActions"
+			],
+			[
+				"b",
+				"bot"
+			],
+			[
+				"SET_CURREN",
+				"SET_CURRENT_ELEMENT"
+			],
+			[
+				"data",
+				"dataManagerPlugin"
+			],
+			[
+				"da",
+				"dataManager"
+			],
+			[
+				"dataMa",
+				"dataManager"
+			],
+			[
+				"le",
+				"length\t(dataWorker.js)"
+			],
+			[
+				"proc",
+				"processParams\t(urlService.js)"
+			],
+			[
+				"in",
+				"instanceof\t(dataWorker.js)"
+			],
+			[
+				"query",
+				"queryParams"
+			],
+			[
+				"quer",
+				"queryParams"
+			],
+			[
+				"va",
+				"values\t(dataWorker.js)"
+			],
+			[
+				"proce",
+				"processQueryString"
+			],
+			[
+				"process",
+				"processPathParams"
+			],
+			[
+				"ca",
+				"cacheHandler"
+			],
+			[
+				"ge",
+				"getItem"
+			],
+			[
+				"reso",
+				"resourcesToCache"
+			],
+			[
+				"ordered",
+				"ordered_collections_ids\t(BaseElement.vue)"
+			],
+			[
+				"respo",
+				"responseData"
+			],
+			[
+				"pro",
+				"proceded"
+			],
+			[
+				"worker",
+				"workerProcess"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"local",
+				"localforage"
+			],
+			[
+				"work",
+				"workerFunction"
+			],
+			[
+				"worke",
+				"workerBlob"
+			],
+			[
+				"loca",
+				"localData"
+			],
+			[
+				"pos",
+				"postMessage"
+			],
+			[
+				"getI",
+				"getItems"
+			],
+			[
+				"cache",
+				"cacheHandler"
+			],
+			[
+				"uni",
+				"unionWith"
+			],
+			[
+				"resource",
+				"resourceName"
+			],
+			[
+				"serv",
+				"services/"
+			],
+			[
+				"de",
+				"default\t(BaseElement.vue)"
+			],
+			[
+				"class",
+				"class\tcreateClass"
+			],
+			[
+				"A",
+				"API_VERSION (str)"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"dispa",
+				"dispatch (fn/0)"
+			],
+			[
+				"disp",
+				"dispatchEvent (fn/1)"
+			],
+			[
+				"element",
+				"elementToSet"
+			],
+			[
+				"boo",
+				"bootstrap/"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"sour",
+				"sourceDir (str)"
+			],
+			[
+				"style",
+				"stylesDir"
+			],
+			[
+				"S",
+				"SET_ELEMENT"
+			],
+			[
+				"sea",
+				"searchActions"
+			],
+			[
+				"nex",
+				"next_region_id"
+			],
+			[
+				"hist_",
+				"hist_regions\t(Fact.py)"
+			],
+			[
+				"processes_",
+				"processes_hist_regions\tstatement"
+			],
+			[
+				"prev_re",
+				"prev_region_id"
+			],
+			[
+				"His",
+				"HistRegion"
+			],
+			[
+				"hid",
+				"hist_region_id"
+			],
+			[
+				"sha",
+				"shapes"
+			],
+			[
+				"fac",
+				"fact"
+			],
+			[
+				"fa",
+				"facts\t(Fact.py)"
+			],
+			[
+				"tes",
+				"test_hist_regions〔variable〕"
+			],
+			[
+				"com",
+				"command\tfunction"
+			],
+			[
+				"co",
+				"command\tfunction"
+			],
+			[
+				"str",
+				"strptime\tfunction"
+			],
+			[
+				"Fac",
+				"Fact"
+			],
+			[
+				"seriali",
+				"serialize\t(middleware.py)"
+			],
+			[
+				"sql",
+				"sqlalchemy_obj"
+			],
+			[
+				"api",
+				"api_routes"
+			],
+			[
+				"Tes",
+				"TestCase"
+			],
+			[
+				"new_s",
+				"new_start_date"
+			],
+			[
+				"kwa",
+				"kwargs"
+			],
+			[
+				"calla",
+				"callableObj"
+			],
+			[
+				"make",
+				"make_list〔function〕"
+			],
+			[
+				"assert",
+				"assertGreater\tfunction"
+			],
+			[
+				"qua",
+				"quadrant\t(manage.py)"
+			],
+			[
+				"expected",
+				"expectedList\tstatement"
+			],
+			[
+				"calc",
+				"calc〔function〕"
+			],
+			[
+				"Qua",
+				"Quadrant〔class〕"
+			],
+			[
+				"unit",
+				"unittest"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"crea",
+				"create〔function〕"
+			],
+			[
+				"clas",
+				"classmethod"
+			],
+			[
+				"star",
+				"start_date_id"
+			],
+			[
+				"q",
+				"quadrant"
+			],
+			[
+				"Test",
+				"TestingCOnfig\t(settings.py)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "data/processes/Вторая_Пуническая_война.json",
+			"settings":
+			{
+				"buffer_size": 148169,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 469.0,
+		"last_filter": "tgm",
+		"selected_items":
+		[
+			[
+				"tgm",
+				"View: Toggle Menu"
+			],
+			[
+				"proj op",
+				"Project Manager: Open Project"
+			],
+			[
+				"proj",
+				"Project Manager"
+			],
+			[
+				"projs",
+				"Project: Save As"
+			],
+			[
+				"open fol",
+				"Git: Open Modified Files"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"proje",
+				"Project Manager"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"proj ",
+				"Project: Close"
+			],
+			[
+				"schem",
+				"Schemr: List all schemes"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"json p",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jsonp",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"thtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"wiki",
+				"Set Syntax: TWiki/Foswiki"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html pre",
+				"HTMLPrettify"
+			],
+			[
+				"htm p",
+				"HTMLPrettify"
+			],
+			[
+				"hmtl",
+				"HTMLPrettify"
+			],
+			[
+				"json pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json fo",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"minify",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"bracket",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle l",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"svg",
+				"Set Syntax: SVG"
+			],
+			[
+				"tm",
+				"View: Toggle Menu"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"docblo",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"docb",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"tern",
+				"tern_for_sublime: Describe"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"paca",
+				"Preferences: Browse Packages"
+			],
+			[
+				"th",
+				"Themr: List themes"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"js ",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"jsn",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"tod",
+				"TodoReview: Project Files"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"Tern",
+				"tern_for_sublime: Describe"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pyth",
+				"Set Syntax: MagicPython"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"wakatime",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"ana",
+				"Anaconda: Find object usage"
+			],
+			[
+				"codecom",
+				"CodeComplice: Dump Import Directories"
+			],
+			[
+				"import",
+				"CodeComplice: Dump Import Directories"
+			],
+			[
+				"ana condoc",
+				"Anaconda: Display object docs"
+			],
+			[
+				"anac",
+				"Anaconda: Display object docs"
+			],
+			[
+				"anaconda",
+				"Anaconda: Show error list"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"schemr",
+				"Schemr: List all schemes"
+			],
+			[
+				"shemr",
+				"Schemr: List all schemes"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"shcemr",
+				"Schemr: List all schemes"
+			],
+			[
+				"scheme",
+				"Schemr: List all schemes"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"settin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"toggl",
+				"View: Toggle Status Bar"
+			],
+			[
+				"toggle",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"togg",
+				"View: Toggle Status Bar"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"snippet: an",
+				"Snippet: Anonymous Function"
+			],
+			[
+				"snippet: afn",
+				"Snippet: Anonymous Function"
+			],
+			[
+				"snippet: f",
+				"Snippet: Function"
+			],
+			[
+				"Snippet: ",
+				"Snippet: ipad"
+			],
+			[
+				"jinj",
+				"Set Syntax: HTML (Jinja2)"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"linte",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"markdo",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"linter s",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"enab",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"enable pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"python3",
+				"Set Syntax: Python3"
+			],
+			[
+				"rc",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"mus",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"jinja",
+				"Set Syntax: HTML (Jinja2)"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"jin",
+				"Set Syntax: HTML (Jinja2)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"lin",
+				"SublimeLinter: Toggle Linter"
+			]
+		],
+		"width": 707.0
+	},
+	"console":
+	{
+		"height": 357.0,
+		"history":
+		[
+			"disable"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/soal/dev/HM/wikipedia-parser",
+		"/home/soal/dev/HM/wikipedia-parser/data"
+	],
+	"file_history":
+	[
+		"/home/soal/dev/HM/ortelius.wiki/Логическая-структура-данных.md",
+		"/home/soal/dev/HM/ortelius.wiki/Описание.md",
+		"/home/soal/dev/HM/fake_api/test_data_new/dicts.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/events/Битва_за_Тарент_(209_до_н._э.).json",
+		"/home/soal/dev/HM/ortelius.wiki/Примеры-JSONов.md",
+		"/home/soal/dev/HM/ortelius.wiki/.gitignore",
+		"/home/soal/.config/sublime-text-3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/home/soal/.config/sublime-text-3/Packages/User/MarkdownPreview.sublime-settings",
+		"/home/soal/dev/MooseMaps/ui/src/storymap/storymap.js",
+		"/home/soal/dev/MooseMaps/ui/src/storymap/storymap.less",
+		"/home/soal/.ssh/config",
+		"/home/soal/dev/MooseMaps/ui/src/storymap.html",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/img/MyriadPro-Semibold.svg",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/img/MyriadPro-LightSemiExt.svg",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/js/0b38ffc8c2037109949f72c94484f7e8.geojson",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/js/1d0998e2d42e23e5660eb74609d38128.geojson",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/js/2a842d6a672fb0c7201e125106596f30.geojson",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/js/2a842d6a672fb0c7201e125106596f30_old.geojson",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/js/2f56fdaca38518614c751994f65b2d81_old.geojson",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/js/2f56fdaca38518614c751994f65b2d81.geojson",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/js/41a02f82777e8bb445062c8a1c752587.geojson",
+		"/home/soal/dev/MooseMaps/ui/src/data/sber.geojson",
+		"/home/soal/dev/MooseMaps/ui/src/data/monitoring.geojson",
+		"/home/soal/dev/MooseMaps/ui/src/img/icon-set/01.png",
+		"/home/soal/dev/MooseMaps/ui/src/img/icon-set/02.png",
+		"/home/soal/dev/MooseMaps/ui/src/storymap/bullets.html",
+		"/home/soal/dev/MooseMaps/ui/src/storymap/infopopup.html",
+		"/home/soal/dev/MooseMaps/ui/src/data/sber_competitors.geojson",
+		"/home/soal/dev/MooseMaps/ui/src/img/storymap-images-slide-6-1.png",
+		"/home/soal/dev/MooseMaps/ui/src/data/cells.geojson",
+		"/home/soal/dev/MooseMaps/ui/src/css/mapbox/mapbox.css",
+		"/home/soal/dev/MooseMaps/ui/src/css/main.css",
+		"/home/soal/dev/MooseMaps/ui/src/css/style.less",
+		"/home/soal/dev/MooseMaps/ui/src/css/mapbox/images/icons-000000@2x.png",
+		"/home/soal/dev/MooseMaps/ui/src/css/mapbox/images/icons-ffffff@2x.png",
+		"/home/soal/dev/MooseMaps/ui/src/data/custom-style.yaml",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/index.html",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/js/storymap.js",
+		"/home/soal/dev/MooseMaps/ui/dist/img/favicon.png",
+		"/home/soal/dev/MooseMaps/ui/src/img/pin-tg.svg",
+		"/home/soal/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/soal/dev/MooseMaps/ui/src/img/bank.png",
+		"/home/soal/dev/MooseMaps/ui/webpack.config.js",
+		"/home/soal/dev/MooseMaps/ui/src/img/3d_off.png",
+		"/home/soal/dev/MooseMaps/ui/src/img/financial-red.png",
+		"/home/soal/dev/MooseMaps/ui/src/img/storymap-images-slide-6-2.png",
+		"/home/soal/dev/MooseMaps/ui/dist/css/storymap.css",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/.gitignore",
+		"/home/soal/tmp/ui/src/storymap.html",
+		"/home/soal/dev/MooseMaps/ui/dist/img/storymap-images-slide-0.jpg",
+		"/home/soal/dev/MooseMaps/ui/src/img/storymap-images-slide-0.png",
+		"/home/soal/dev/MooseMaps/ui/gulpfile.js",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/css/updates.css",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/css/storymap.css",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/js/updates.js",
+		"/home/soal/dev/MooseMaps/moose/package.json",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/js/storymap.min.js",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/js/storymap.min1.js",
+		"/home/soal/dev/MooseMaps/moose/.gitignore",
+		"/home/soal/dev/MooseMaps/moose/storymap/storymap.js",
+		"/home/soal/dev/spDiary/package.json",
+		"/home/soal/dev/MooseMaps/moose/dist/index.html",
+		"/home/soal/dev/MooseMaps/moose/dist/css/storymap.css",
+		"/home/soal/dev/MooseMaps/moose/dist/img/storymap-images-slide-0.jpg",
+		"/home/soal/dev/MooseMaps/moose/dist/img/storymap-images-slide-6-2.png",
+		"/home/soal/dev/MooseMaps/moose/dist/img/storymap-images-slide-6-1.png",
+		"/home/soal/dev/HM/handymap/package.json",
+		"/home/soal/dev/MooseMaps/moose/storymap.html",
+		"/home/soal/dev/MooseMaps/moose/dist/storymap.js",
+		"/home/soal/dev/HM/handymap/src/components/GeoMap.vue",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/gulpfile.js",
+		"/home/soal/dev/MooseMaps/moose/storymap/storymap.less",
+		"/home/soal/dev/MooseMaps/moose/storymap/bullets.html",
+		"/home/soal/dev/MooseMaps/moose/storymap/infopopup.html",
+		"/home/soal/dev/plastic-media/mcwap/gulpfile.js",
+		"/home/soal/dev/MooseMaps/moosemaps.bitbucket.org/css/storymap.min.css",
+		"/home/soal/dev/moose/storymap/storymap.js",
+		"/home/soal/dev/moose/storymap/infopopup.html",
+		"/home/soal/dev/moose/storymap.html",
+		"/home/soal/dev/HM/wikipedia-parser/index.js",
+		"/home/soal/dev/HM/wikipedia-parser/node-wikipedia/lib/page.js",
+		"/home/soal/dev/moosemaps.bitbucket.org/js/storymap.js",
+		"/home/soal/dev/HM/handymap/src/App.vue",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_второй_Пунической_войны/Битва_за_Тарент_(209_до_н._э.).json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_второй_Пунической_войны/Битва_при_Треббии.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_Великой_Северной_войны/Битва_при_Лесной.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_Великой_Северной_войны/Битва_у_реки_Пялькане.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Вторая_Пуническая_война/Великодушие_Сципиона.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_второй_Пунической_войны/Битва_при_Агер_Фалерне.json",
+		"/home/soal/dev/HM/fake_api/test_data/jsons/battle_of_the_trebia.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Битва_за_Тарент_(209_до_н._э.).json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_второй_Пунической_войны/Битва_при_Бекуле.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_второй_Пунической_войны/Битва_при_Беневенте_(212_до_н._э.).json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_второй_Пунической_войны/Битва_при_Беневенте_(214_до_н._э.).json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_второй_Пунической_войны/Переправа_через_Рону.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_второй_Пунической_войны/Битва_при_Эбро.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_второй_Пунической_войны/Битва_при_Циссисе.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_второй_Пунической_войны/Битва_при_Цирте.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_второй_Пунической_войны/Битва_при_Утике_(203_до_н._э.).json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_второй_Пунической_войны/Битва_на_Великих_Равнинах.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Сражения_второй_Пунической_войны/Битва_за_Тарент_(212_до_н._э.).json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Вторая_Пуническая_война.json",
+		"/home/soal/dev/HM/wikipedia-parser/node-wikipedia/package.json",
+		"/home/soal/dev/HM/wikipedia-parser/node-wikipedia/lib/dial.js",
+		"/home/soal/dev/HM/wikipedia-parser/data/Битва_за_Тарент_(212_до_н._э.).json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Битва_за_Тарент_(212_до_н._э.).html",
+		"/home/soal/dev/HM/wikipedia-parser/data/Битва_при_Заме.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/wtf_Полтавская_битва.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Штурм_Нового_Карфагена.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Битва_при_Каннах.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Битва_при_Агер_Фалерне.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Битва_при_Грументе.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Массинисса.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Битва_при_Корнусе.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Полтавская_битва.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Осада_Сагунта.json",
+		"/home/soal/dev/HM/wikipedia-parser/node-wikipedia/index.js",
+		"/home/soal/dev/HM/wikipedia-parser/data/Полтавская_битва.html",
+		"/home/soal/dev/HM/wikipedia-parser/wikifetch/lib/wikifetch.js",
+		"/home/soal/dev/HM/wikipedia-parser/data/Полтавская_битва.реьд",
+		"/home/soal/dev/HM/wikipedia-parser/data/Август_Сильный.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Rome:_Total_War.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Битва_при_Бекуле.json",
+		"/home/soal/dev/HM/wikipedia-parser/data/Битва_при_Каннах",
+		"/home/soal/dev/HM/wikipedia-parser/data/Битва_при_Бекуле",
+		"/home/soal/dev/HM/wikipedia-parser/data/Битва_при_Бекуле.html",
+		"/home/soal/dev/spDiary/src/mixins.js",
+		"/home/soal/dev/HM/wikipedia-parser/node-wikipedia/lib/categories.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+			"/home/soal/dev/HM/ortelius",
+			"/home/soal/dev/handymap/handymap/client/js",
+			"/home/soal/dev/swift-gift/beast/",
+			"/home/soal/dev/swift-gift/beast-master/",
+			"/home/soal/dev/swift-gift/beast-master/app/client",
+			"/home/soal/dev/swift-gift/beast-master/",
+			"/home/soal/dev/swift-gift/beast-master/templates",
+			"<open folders>",
+			"/home/soal/dev/plastic-media/mcwap/htdocs/styles",
+			"/home/soal/dev/plastic-media/mcwap/htdocs/js",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/assets/stylesheets",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/assets/slylesheets/",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/assets/javascripts/",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/assets/javascript/",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/assets/javascript",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/assets/stylesheets",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/views",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/assets/stylesheets",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/views",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/assets/stylesheets/",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/assets/stylesheets/search",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/assets/stylesheets",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/assets/templates",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/assets/javascripts",
+			"/home/soal/dev/sentimeta/AlternativesPower/app/assets/stylesheets",
+			"/home/soal/dev/sentimenta/AlternativesPower/app/assets/stylesheets/",
+			"/home/soal/dev/sentimenta/AlternativesPower/assets/stylesheets/",
+			"/home/soal/dev/sentimenta/AlternativesPower/assets/stylesheets",
+			"/home/soal/dev/sentimenta/AlternativesPower",
+			"/home/soal/dev/SlPort/app/stylesheets/",
+			"/home/soal/dev/SlPort/app/stylesheets",
+			"/home/soal/dev/SlPort/app",
+			"/home/soal/dev/SlPort/public/js",
+			"/home/soal/dev/SlPort/public/components/angular",
+			"/home/soal/dev/SlPort/public/js",
+			"/home/soal/dev/SlPort/app",
+			"/home/soal/dev/SlPort/public",
+			"/home/soal/dev/SlPort/app",
+			"/home/soal/dev/SlPort/",
+			"/home/soal/dev/web/projects/SlPort/",
+			"/home/soal/dev/web/projects/SlPort/app",
+			"<project>",
+			"/home/soal/dev/web/projects/SlPort/app,/home/soal/dev/web/projects/SlPort/middleware,/home/soal/dev/web/projects/SlPort/public",
+			"/home/soal/dev/web/projects/SlPort/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"вхождение",
+			"connection",
+			"involvement",
+			"proto",
+			">",
+			"* ",
+			"\"",
+			"github",
+			"icon-image",
+			"bank",
+			"console.",
+			"layer",
+			"createMap",
+			"3-4",
+			"Marker",
+			"'url(../img/bank.svg'",
+			"Marker",
+			"img",
+			"marker",
+			"sber-",
+			"Marker",
+			"marker",
+			"sber-marker",
+			"point",
+			"data",
+			"marker",
+			"points",
+			"72",
+			"marker",
+			"new mapboxgl",
+			"ol.big",
+			"slide-6",
+			".slide-6",
+			".slide-6:after",
+			"открывать или",
+			"img",
+			"storymap-images-slide-6-2.png",
+			"storymap-images-slide-0.png",
+			"futurePoints",
+			".png",
+			"data-id=\"0\"",
+			".slide",
+			"target",
+			"document",
+			".slide",
+			".slide ",
+			"sidebar-title",
+			"http://localhost:8080/img/storymap-images-slide-0.jpg",
+			"import",
+			"mapboxgl",
+			"pageScroll",
+			"nicescroll",
+			"onepage_scroll",
+			"nicescroll",
+			"$",
+			"head",
+			".css",
+			"storymap.",
+			"storymap",
+			"storymap.css",
+			".css",
+			"}\n",
+			"Координаты",
+			"cheered",
+			"DESCRIPTION",
+			"SHORT DESCRIPTION",
+			"getCatlist",
+			"dates",
+			"cleanedText",
+			"wtfWikipedia",
+			"format",
+			"fromat",
+			"name",
+			"cleanedName",
+			"getArticle",
+			"bbox",
+			"var",
+			"random",
+			"type",
+			"[i]",
+			"polygon",
+			"parameters",
+			"name",
+			"randomName",
+			"newPiece",
+			"randomMin",
+			"randomMax",
+			"pieces",
+			"count",
+			"number",
+			"pieces",
+			"randomMax",
+			"json",
+			"nav",
+			" $",
+			"body",
+			"mounted",
+			"\\",
+			":",
+			";",
+			"elementActions",
+			"label",
+			"name",
+			"label",
+			"context",
+			"<text>",
+			"<text>1",
+			".",
+			"\n",
+			"\n17",
+			"\n1700\n\n",
+			"наверх",
+			"Mainloop",
+			"Mainloop\n",
+			"Mainloop",
+			"data",
+			"paramsObj",
+			"data",
+			"'",
+			"response",
+			"responseData",
+			"data",
+			"paramsObj",
+			"params",
+			"elements",
+			"setItem",
+			"items.concat",
+			"message"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"name_ru",
+			"Fact",
+			"dataObj",
+			"cleanedData",
+			"profileLink"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "data/processes/Вторая_Пуническая_война.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148169,
+								148169
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/Babel/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 133.0
+	},
+	"pinned_build_system": "Packages/Stylus/Stylus.sublime-build",
+	"project": "wikipedia-parser.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"less",
+				"ui/src/storymap/storymap.less"
+			],
+			[
+				"index",
+				"moosemaps.bitbucket.org/index.html"
+			],
+			[
+				".git",
+				"handymap/.gitignore"
+			],
+			[
+				"geo",
+				"handymap/src/components/GeoMap.vue"
+			],
+			[
+				"packa",
+				"handymap/package.json"
+			],
+			[
+				"index.htm",
+				"spDiary/index.html"
+			],
+			[
+				"info",
+				"handymap/src/components/InfoBox.vue"
+			],
+			[
+				"top",
+				"handymap/src/components/TopMenu.vue"
+			],
+			[
+				"app",
+				"handymap/src/App.vue"
+			],
+			[
+				"apck",
+				"fake_api/package.json"
+			],
+			[
+				"pa",
+				"handymap/package.json"
+			],
+			[
+				"apca",
+				"fake_api/package.json"
+			],
+			[
+				"router",
+				"handymap/src/router.js"
+			],
+			[
+				"pack",
+				"handymap/package.json"
+			],
+			[
+				"rou",
+				"spDiary/src/router.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"store",
+				"handymap/src/vuex/store.js"
+			],
+			[
+				"stor",
+				"handymap/src/vuex/store.js"
+			],
+			[
+				"sear",
+				"handymap/src/actions/searchActions.js"
+			],
+			[
+				"main",
+				"handymap/src/main.js"
+			],
+			[
+				"basema",
+				"handymap/src/components/BaseMap.vue"
+			],
+			[
+				"a",
+				"handymap/src/styles/app.scss"
+			],
+			[
+				"data",
+				"handymap/src/services/dataWorker.js"
+			],
+			[
+				"crud",
+				"handymap/src/services/crudService.js"
+			],
+			[
+				"base",
+				"handymap/src/components/BaseElement.vue"
+			],
+			[
+				"ma",
+				"handymap/src/main.js"
+			],
+			[
+				"resou",
+				"handymap/src/api/resources.js"
+			],
+			[
+				"confi",
+				"handymap/src/config.js"
+			],
+			[
+				"crudser",
+				"handymap/src/services/crudService.js"
+			],
+			[
+				"ele",
+				"handymap/src/actions/elementsActions.js"
+			],
+			[
+				"config",
+				"handymap/src/config.js"
+			],
+			[
+				"apps",
+				"handymap/src/styles/app.scss"
+			],
+			[
+				"baseel",
+				"handymap/src/components/BaseElement.vue"
+			],
+			[
+				"resor",
+				"handymap/src/api/resources.js"
+			],
+			[
+				"nasema",
+				"handymap/src/components/BaseMap.vue"
+			],
+			[
+				"muta",
+				"handymap/src/storage/mutationTypes.js"
+			],
+			[
+				"basem",
+				"handymap/src/components/BaseMap.vue"
+			],
+			[
+				"bas",
+				"handymap/src/components/BaseElement.vue"
+			],
+			[
+				"app.sc",
+				"src/styles/app.scss"
+			],
+			[
+				"broc",
+				"Brocfile.js"
+			],
+			[
+				"resour",
+				"src/api/resources.js"
+			],
+			[
+				"fact",
+				"ortelius/views/Facts_view.py"
+			],
+			[
+				"his",
+				"ortelius/models/Hist_region.py"
+			],
+			[
+				"coo",
+				"ortelius/models/Coordinates.py"
+			],
+			[
+				"sett",
+				"ortelius/settings.py"
+			],
+			[
+				"man",
+				"manage.py"
+			],
+			[
+				"mana",
+				"manage.py"
+			],
+			[
+				"test",
+				"test_data/test_facts.py"
+			],
+			[
+				"api",
+				"ortelius/api_routes.py"
+			],
+			[
+				"test_date/",
+				"test_data/test_facts.py"
+			],
+			[
+				"date",
+				"ortelius/models/Date.py"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"settin",
+				"ortelius/settings.py"
+			],
+			[
+				"test_data/",
+				"test_data/test_facts.py"
+			],
+			[
+				"coor",
+				"ortelius/models/Coordinates.py"
+			],
+			[
+				"fac",
+				"ortelius/models/Fact.py"
+			],
+			[
+				"coordin",
+				"ortelius/models/Coordinates.py"
+			],
+			[
+				"da",
+				"ortelius/models/Date.py"
+			],
+			[
+				"tes",
+				"tests/test_models.py"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"routes.py",
+				"handymap/server/routes.py"
+			],
+			[
+				"app.sass",
+				"handymap/client/styles/app.sass"
+			],
+			[
+				"layo",
+				"handymap/client/js/layout.js"
+			],
+			[
+				".giti",
+				"handymap/.gitignore"
+			],
+			[
+				"gulpf",
+				"handymap/gulpfile.js"
+			],
+			[
+				"pacj",
+				"handymap/package.json"
+			],
+			[
+				"unders",
+				"handymap/handymap/client/vendor/underscore/underscore.js"
+			],
+			[
+				"manage",
+				"manage.py"
+			],
+			[
+				"ro",
+				"handymap/server/routes.py"
+			],
+			[
+				"api/",
+				"handymap/client/js/api/resources.js"
+			],
+			[
+				"routes",
+				"handymap/server/routes.py"
+			],
+			[
+				"actions/",
+				"handymap/client/js/actions/factActions.js"
+			],
+			[
+				"tern",
+				".tern-project"
+			],
+			[
+				".gitignore",
+				".gitignore"
+			],
+			[
+				"requi",
+				"requirements.txt"
+			],
+			[
+				"",
+				"gulpfile.js"
+			],
+			[
+				"ka",
+				"karma.conf.js"
+			],
+			[
+				"gulpfil",
+				"gulpfile.js"
+			],
+			[
+				"paca",
+				"package.json"
+			],
+			[
+				".ter",
+				".tern-project"
+			],
+			[
+				"models/",
+				"handymap/server/models/User.py"
+			],
+			[
+				"inde",
+				"handymap/templates/index.html"
+			],
+			[
+				"app.py",
+				"handymap/app.py"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"bowerr",
+				".bowerrc"
+			],
+			[
+				"help",
+				"handymap/helpers.py"
+			],
+			[
+				".gig",
+				".gitignore"
+			],
+			[
+				"app.js",
+				"testapp/frontend/js/app.js"
+			],
+			[
+				"views/s",
+				"app/client/views/standby.coffee"
+			],
+			[
+				"rea",
+				"readme.md"
+			],
+			[
+				"templ",
+				"lib/templates.coffee"
+			],
+			[
+				"homehbs",
+				"templates/pages/home.hbs"
+			],
+			[
+				"home",
+				"app/client/controllers/home.coffee"
+			],
+			[
+				"option",
+				"mcwap/frontend/views/partials/options.html"
+			],
+			[
+				"my",
+				"mcwap/htdocs/styles/my.scss"
+			],
+			[
+				"app.p",
+				"mcwap/tmpl/app.php"
+			],
+			[
+				"varia",
+				"mcwap/htdocs/styles/variables.scss"
+			],
+			[
+				"rules",
+				"mcwap/htdocs/styles/pages/rules.scss"
+			],
+			[
+				"faq",
+				"mcwap/htdocs/views/help/faq.html"
+			],
+			[
+				"register",
+				"mcwap/htdocs/styles/pages/external/register.scss"
+			],
+			[
+				"register.",
+				"mcwap_newform/register.html"
+			],
+			[
+				"exter",
+				"mcwap/htdocs/styles/pages/external/external.scss"
+			],
+			[
+				"authc",
+				"mcwap/htdocs/js/controllers/AuthController.js"
+			],
+			[
+				"login",
+				"mcwap/htdocs/views/auth/login.html"
+			],
+			[
+				"succes",
+				"mcwap/htdocs/views/auth/success_recover.html"
+			],
+			[
+				"pass",
+				"mcwap/htdocs/views/auth/password_recover.html"
+			],
+			[
+				"auth",
+				"mcwap/htdocs/js/controllers/AuthController.js"
+			],
+			[
+				"after",
+				"mcwap/htdocs/views/auth/after_register.html"
+			],
+			[
+				"rout",
+				"mcwap/htdocs/js/router.js"
+			],
+			[
+				"aut",
+				"mcwap/htdocs/js/controllers/AuthController.js"
+			],
+			[
+				"authcon",
+				"mcwap/htdocs/js/controllers/AuthController.js"
+			],
+			[
+				"my.css",
+				"mcwap/htdocs/styles/my.scss"
+			],
+			[
+				"env",
+				"inc/env.php"
+			],
+			[
+				"app.php",
+				"tmpl/app.php"
+			],
+			[
+				"statcont",
+				"htdocs/js/controllers/StatController.js"
+			],
+			[
+				"basefilter",
+				"htdocs/js/stat/pmStat/BaseFilterService.js"
+			],
+			[
+				"statfil",
+				"htdocs/js/services/StatFiltersService.js"
+			],
+			[
+				"flows.js",
+				"htdocs/js/resources/Flows.js"
+			],
+			[
+				"au",
+				"htdocs/js/controllers/AuthController.js"
+			],
+			[
+				"flows",
+				"htdocs/js/controllers/FlowsController.js"
+			],
+			[
+				"offersc",
+				"htdocs/js/controllers/OffersController.js"
+			],
+			[
+				"offers",
+				"htdocs/js/resources/Offers.js"
+			],
+			[
+				"stat",
+				"htdocs/js/resources/Stat.js"
+			],
+			[
+				"news",
+				"htdocs/js/resources/News.js"
+			],
+			[
+				"peri",
+				"htdocs/js/controllers/Reports/PeriodsControllers.js"
+			],
+			[
+				"mcwa",
+				"htdocs/js/services/McwapService.js"
+			],
+			[
+				"report",
+				"htdocs/views/stat/referrals_reports.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/dev/handymap/handymap.sublime-workspace"
+			],
+			[
+				"ha",
+				"~/dev/handymap/handymap.sublime-project"
+			],
+			[
+				"dasht",
+				"~/dev/handymap/dash-to-dock.sublime-workspace"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 502.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 830.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 372.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
